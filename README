@@ -39,8 +39,7 @@ tracking system events.
 - The `process_order_through_pos()` function allows interaction with different POS systems using a common interface, demonstrating polymorphism. This flexibility enables easy addition of new POS systems in the future.
 
 ## Usage Instructions
-
+s
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+       git clone https://github.com/Abhishek123-alt/restaurant_pos
